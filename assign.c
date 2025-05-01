@@ -1,3 +1,8 @@
+// Name: Deepan Kumar
+// Batch: 5
+// Roll number: ME24B1078
+// ELEMENTARY DATA STRUCTURES ASSIGNMENT
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
